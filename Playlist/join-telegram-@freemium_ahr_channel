@@ -52,3 +52,33 @@ http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2
 #EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
 #EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
 http://172.19.178.148:18190/mu8/index.fmp4.m3u8?token=e1bc8fbd83b09d8ea7eef6dc96575121ca3c3b69-8cba84b325570861c92216d215dd9a36-1784143952-1784132852
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://172.19.178.148:18190/tspsn/index.fmp4.m3u8?token=960f657fadf1234000bf7ecd0113cdb6b8e5d932-58c35ccef5adc647a09d4b583bcbd484-1784148270-1784137170
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://172.19.178.148:18190/mu8/index.fmp4.m3u8?token=01553fbea7a1331994a9dd73f20cdd2b2cb64df1-be2f2db81ef8abccc51a145b5efbb50c-1784148280-1784137180
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://172.19.178.148:18190/btv/index.fmp4.m3u8?token=79e33eba2bf89991939447f399ab6cd3b07333de-3830067cc129834eab3f71bb657ebfec-1784148345-1784137245
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://172.19.178.148:18190/somoytv/index.fmp4.m3u8?token=4d997cfd29743386520158c4627cdb8ba4bde3c4-0ec0743fbb32da42cd950b6b7296f2cd-1784148364-1784137264
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FIFA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://vpn.onair8k.xyz:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:01:67:9F; stb_lang=en; timezone=GMT
+http://172.19.178.148:18190/mu8/index.fmp4.m3u8?token=e1bc8fbd83b09d8ea7eef6dc96575121ca3c3b69-8cba84b325570861c92216d215dd9a36-1784143952-1784132852
