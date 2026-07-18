@@ -17,8 +17,7 @@ Accept-Encoding: gzip
 Host: bdcast-us-sc-1.b-cdn.net
 
 Connection: Keep-Alive
-https://bdcast-us-sc-1.b-cdn.net/ep-ayna/0/bz/btv_world/index.m3u8?hdnts=st=1722016660~exp=1722027460~acl=/bz/btv_world/*~data=199.244.51.201-PHONE~hmac=6ad57de9c3d1746e35292842edcd41c950b7d852d6a37d78d2366c86252797b5
-
+http://stream.cammonitorplus.net/1799/index.m3u8
 
 
 
