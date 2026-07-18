@@ -22,25 +22,21 @@ http://stream.cammonitorplus.net/1799/index.m3u8
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝗟𝗶𝘃𝗲-𝗘𝘃𝗮𝗻𝘁𝘀«~🧏" tvg-logo="https://raw.githubusercontent.com/magisk-ahr/Live-TV/alamin/PlayList/Logo/AL-AMIN/AljazeeraTV.png", Football ⚽ 2
-
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/qbK09DJfWlsOr-IVLLS0BnA8ciklb-iK9JHgmaECEXsqPE6zjv5ZXnQevmekjAieQHxycWMiEZ7Rmj0aqOFYTQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/st_dynamic_highlatency.m3u8?type=live
-
-
-
-
-
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝗟𝗶𝘃𝗲-𝗘𝘃𝗮𝗻𝘁𝘀«~🧏" tvg-logo="https://raw.githubusercontent.com/magisk-ahr/Live-TV/alamin/PlayList/Logo/AL-AMIN/AljazeeraTV.png", Cricket 🏏
-
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/master_mdh.m3u8?hdnea=st=1695237667~exp=1695237967~acl=*~id=528511f6-4ba0-4956-a7ef-0f0e5fef0d6a~hmac=69a3d8d0e0eac817b89a8aff75e1ee3d287444720dabd7c984f68d1947468a61&originpath=/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/19c80772-7ee6-4d19-a4d4-378d4946776e:SIN/master.m3u8
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+http://stream.cammonitorplus.net/1799/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝗟𝗶𝘃𝗲-𝗘𝘃𝗮𝗻𝘁𝘀«~🧏" tvg-logo="https://raw.githubusercontent.com/magisk-ahr/Live-TV/alamin/PlayList/Logo/AL-AMIN/AljazeeraTV.png", Crocket 🏏 2
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
 
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+
+
+
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090455&extension=ts&play_token=WYLsYaLkBq
 
 
 
