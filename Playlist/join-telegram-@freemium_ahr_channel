@@ -6,36 +6,30 @@ Join Telegram - https://t.me@magisk.ahr
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽ 
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", 🅰🅻 🅰🅼🅸🅽 BDIX 1 ⚽ 
 
-GET /ep-ayna/0/bz/btv_world/index.m3u8?hdnts=st=1722016660~exp=1722027460~acl=/bz/btv_world/*~data=199.244.51.201-PHONE~hmac=6ad57de9c3d1746e35292842edcd41c950b7d852d6a37d78d2366c86252797b5 HTTP/1.1
-
-User-Agent: stagefright/1.2 (Linux;Android 4.2.1)
-
-Accept-Encoding: gzip
-
-Host: bdcast-us-sc-1.b-cdn.net
-
-Connection: Keep-Alive
 http://stream.cammonitorplus.net/1799/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", 🅰🅻 🅰🅼🅸🅽 BDIX 2 ⚽
+
 http://stream.cammonitorplus.net/1799/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", 🅰🅻 🅰🅼🅸🅽 4K60FPS ⚽
+
 http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090453&extension=ts&play_token=jTiyXkz5Qm
 
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", 🅰🅻 🅰🅼🅸🅽 4K60FPS ⚽
+
 http://vpn.onair8k.xyz:80/play/live.php?mac=A0%3ABB%3A3E%3A01%3A67%3A9F&stream=2090455&extension=ts&play_token=WYLsYaLkBq
 
 
