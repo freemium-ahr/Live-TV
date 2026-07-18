@@ -6,7 +6,7 @@ Join Telegram - https://t.me@magisk.ahr
 
 
 
-#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝗟𝗶𝘃𝗲-𝗘𝘃𝗮𝗻𝘁𝘀«~🧏" tvg-logo="https://raw.githubusercontent.com/magisk-ahr/Live-TV/alamin/PlayList/Logo/AL-AMIN/AljazeeraTV.png", Football ⚽ 
+#EXTINF:-1 group-title="»𝗔𝗟•𝗔𝗠𝗜𝗡_𝓕𝓘𝓕𝓐 2026«~🧏" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png", Football ⚽ 
 
 GET /ep-ayna/0/bz/btv_world/index.m3u8?hdnts=st=1722016660~exp=1722027460~acl=/bz/btv_world/*~data=199.244.51.201-PHONE~hmac=6ad57de9c3d1746e35292842edcd41c950b7d852d6a37d78d2366c86252797b5 HTTP/1.1
 
